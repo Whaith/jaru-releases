@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": "52",
-  "notes": "fix(release): let the failure diagnostician use the Claude login",
-  "uploadedAt": "2026-09-24T13:01:40.417Z"
+  "build": "54",
+  "notes": "Approve and Reject on the Lock Screen now go straight to your Mac, even while the phone is locked. The Live Activity can also be kept current by your Mac while the phone sleeps.",
+  "uploadedAt": "2026-09-25T17:54:27.593Z"
 }
