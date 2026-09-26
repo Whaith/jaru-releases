@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": "54",
-  "notes": "Approve and Reject on the Lock Screen now go straight to your Mac, even while the phone is locked. The Live Activity can also be kept current by your Mac while the phone sleeps.",
-  "uploadedAt": "2026-09-25T17:54:27.593Z"
+  "build": "55",
+  "notes": "chore(ide): regenerate the Phase 0 consolidation ledgers against main",
+  "uploadedAt": "2026-09-26T20:46:34.660Z"
 }
