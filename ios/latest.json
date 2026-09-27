@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": "55",
-  "notes": "chore(ide): regenerate the Phase 0 consolidation ledgers against main",
-  "uploadedAt": "2026-09-26T20:46:34.660Z"
+  "build": "56",
+  "notes": "Ship: release mobile from a clean checkout of the shipped commit; Mobile: stop markdown replies clipping their last lines; Mobile: render task agent verdicts and lessons as cards",
+  "uploadedAt": "2026-09-27T18:02:36.002Z"
 }
