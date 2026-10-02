@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": "57",
+  "build": "58",
   "notes": "Publish each production dashboard build to a fresh artifact directory; Split oversized durable sync snapshots into bounded captures; Add shared Phonon speech with iOS offline dictation and task harmon",
-  "uploadedAt": "2026-10-02T09:29:35.379Z"
+  "uploadedAt": "2026-10-02T16:23:11.000Z"
 }
