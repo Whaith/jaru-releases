@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": "56",
-  "notes": "Ship: release mobile from a clean checkout of the shipped commit; Mobile: stop markdown replies clipping their last lines; Mobile: render task agent verdicts and lessons as cards",
-  "uploadedAt": "2026-09-27T18:02:36.002Z"
+  "build": "57",
+  "notes": "Publish each production dashboard build to a fresh artifact directory; Split oversized durable sync snapshots into bounded captures; Add shared Phonon speech with iOS offline dictation and task harmon",
+  "uploadedAt": "2026-10-02T09:29:35.379Z"
 }
