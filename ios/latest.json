@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": "58",
-  "notes": "Publish each production dashboard build to a fresh artifact directory; Split oversized durable sync snapshots into bounded captures; Add shared Phonon speech with iOS offline dictation and task harmon",
-  "uploadedAt": "2026-10-02T16:23:11.000Z"
+  "build": "63",
+  "notes": "Resolve shared context model imports on native clients; Reduce repeated context and inbox projection queries; Fix queued chat send stalling after navigation to a not-yet-created conversation",
+  "uploadedAt": "2026-10-04T10:08:15.132Z"
 }
