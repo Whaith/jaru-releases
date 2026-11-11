@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": "63",
-  "notes": "Resolve shared context model imports on native clients; Reduce repeated context and inbox projection queries; Fix queued chat send stalling after navigation to a not-yet-created conversation",
-  "uploadedAt": "2026-10-04T10:08:15.132Z"
+  "build": "89",
+  "notes": "Icons now come from one set across the app, widgets, Live Activity and keyboard.",
+  "uploadedAt": "2026-11-11T12:07:35.274Z"
 }
